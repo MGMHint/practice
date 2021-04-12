@@ -1,14 +1,16 @@
 # practice
 
-- change image names
-  -   Takes in an excel/ csv file
-  -   creates copy of images
-  -   
--   photo uploader
-    -   takes in excel/ csv file
-    -   creates csv file for photo uploads (to be used in template)
-    -   needs list of indexed objects with object id (created in sql)
+- Import Image Template.csv
+  - Fill out for images trying to upload
+  - First column = path of image, second column = first object number, third column = second object number (if only one object leave blank)
 
+- TMS Image Import - Write CSV + Copy Images.ipynb
+  - Use to copy images AND create csv to upload images
+  - Set filepath = name of your template csv
+
+- TMS Image Import - Write CSV Only.ipynb
+  - Use to ONLY create csv to upload images
+  - Set filepath = name of your template csv
 
 - objectlist.csv
   - List of every Museum specimen with its object number and official "other" number
