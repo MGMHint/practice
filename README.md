@@ -36,5 +36,5 @@
         - New csv file will be located in the same folder as the starting template csv
 
 - objectlist.csv
-  - List of every Museum specimen with its object number and official "other" number
-  - Needed to make the second column of the spreadsheet
+  - List of every Museum specimen with its object number and official "other" number (object id)
+  - Needed to make the second column of the spreadsheet and run ObjectIdList
