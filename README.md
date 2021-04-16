@@ -1,8 +1,8 @@
 # practice
 
-GETTING STARTED
-- The template csv file should be saved in the same folder on the server as the images you are trying to upload
-- Download the objectlist.csv file
+- GETTING STARTED
+  - The template csv file should be saved in the same folder on the server as the images you are trying to upload
+  - Download the objectlist.csv file
 
 - Import Image Template.csv
   - Fill out for files wanting to upload
