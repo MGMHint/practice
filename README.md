@@ -1,4 +1,4 @@
-# practice
+# PYTHON IMAGE IMPORT CODE
 
 - GETTING STARTED
   - The template csv file should be saved in the same folder on the server as the images you are trying to upload
