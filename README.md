@@ -2,6 +2,7 @@
 
 - GETTING STARTED
   - The template csv file should be saved in the same folder on the server as the images you are trying to upload
+        - Template must be saved as a csv file, not an excel file (from excel -> file, save as, file format, .csv)
   - Download the objectlist.csv file
 
 - Import Image Template.csv
